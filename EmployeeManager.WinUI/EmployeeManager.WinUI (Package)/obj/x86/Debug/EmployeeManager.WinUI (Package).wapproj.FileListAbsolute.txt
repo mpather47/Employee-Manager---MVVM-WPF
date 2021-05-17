@@ -1,0 +1,47 @@
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\App.xbf
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\MainWindow.xbf
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Controls\HeaderControl.xbf
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Images\logo.png
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ui.xaml.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.ui.xaml.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapprojAssemblyReference.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CopyComplete
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI.pri.xml
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt

@@ -1,0 +1,15 @@
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.deps.json
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csprojAssemblyReference.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfo.cs
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CopyComplete
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.pdb

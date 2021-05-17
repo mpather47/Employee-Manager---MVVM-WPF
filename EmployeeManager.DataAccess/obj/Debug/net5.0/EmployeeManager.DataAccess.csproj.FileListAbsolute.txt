@@ -1,0 +1,15 @@
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.deps.json
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csprojAssemblyReference.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\Marcell\Downloads\fundamentals-building-dot-net-desktop-applications\03\demos\after\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.pdb
